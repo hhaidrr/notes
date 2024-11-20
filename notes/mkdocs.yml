@@ -1,0 +1,7 @@
+site_name: My Notes
+theme:
+  name: mkdocs
+  color_mode: dark
+  nav_style: dark
+
+
