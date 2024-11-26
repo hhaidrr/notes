@@ -5,3 +5,5 @@ theme:
   nav_style: dark
 
 docs_dir: product-engineering
+plugins:
+  - drawio-exporter
