@@ -20,3 +20,12 @@ TODO: Write and link document on switch-over cost.
 This is when the product is complete. How do you actually get your target consumers exposed
 to the product? Marketing, sales, etc.
 
+## Dimensions
+### Vertical
+Creating a new algorithm.
+Providing value that is new to the entire set of consumers.
+
+### Horizontal
+Creating access to an existing algorithm.
+Providing value to a sub-set of consumers.
+

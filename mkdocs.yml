@@ -5,5 +5,7 @@ theme:
   nav_style: dark
 
 docs_dir: product-engineering
-plugins:
-  - drawio-exporter
+# Waiting to hear back from pending issue request:
+# https://github.com/LukeCarrier/mkdocs-drawio-exporter/issues/83
+# plugins:
+# - drawio-exporter
