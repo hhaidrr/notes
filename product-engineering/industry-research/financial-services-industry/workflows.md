@@ -49,3 +49,15 @@
     * Managing and tracking monthly payments, interest, and loan term compliance.
 * Loan Closure:
     * Final payment and closure of the loan account after all obligations are met.
+
+## Per Consumer Category
+| **Category**             | **Description**                                            | **Financial Workflow Examples**                      |
+|--------------------------|------------------------------------------------------------|------------------------------------------------------|
+| **Individual**            | Personal finance management                               | Income generation, budgeting, saving, investing, tax filing |
+| **Household**             | Shared family financial management                        | Combined income, household budgeting, joint saving, tax filing |
+| **Small Business (SME)**  | Small-scale business operations and finance               | Revenue generation, payroll, tax filing, expense management |
+| **Corporation**           | Large business finance operations                         | Revenue generation, budgeting, investor relations, debt management |
+| **Government**            | Managing public funds, taxes, and expenditures            | Tax collection, budgeting, public spending, debt management |
+| **NGO / Non-Profit**      | Non-profit fundraising, donations, and budget allocation   | Fundraising, budget allocation, grant management, donor relations |
+| **Country**               | National-level finance, public policy, and international finance | National budget allocation, debt management, social programs |
+| **Global Market**         | Global finance, trade, and investments                    | Capital flow, currency exchange, market analysis, trade finance |

@@ -29,3 +29,19 @@ Providing value that is new to the entire set of consumers.
 Creating access to an existing algorithm.
 Providing value to a sub-set of consumers.
 
+## Consumer Categories
+Typically these diffent categories will differ in their workflows, needs, requirements
+and therefore their resulting problems and possible solutions/products.
+
+
+| **Category**             | **Description**                                            | **Examples**                                          |
+|--------------------------|------------------------------------------------------------|------------------------------------------------------|
+| **Individual**            | Single person, basic consumer of goods and services       | Grocery shopping, personal entertainment subscriptions |
+| **Household**             | Group of people living together, shared consumption       | Family buying a car, paying rent, utilities         |
+| **Small Business (SME)**  | Small companies consuming resources for operations         | Local bakery purchasing ingredients, small law firm buying office supplies |
+| **Corporation**           | Large companies consuming goods/services at a large scale | Tech giant buying servers, multinational food chain purchasing packaging |
+| **Government**            | Local, regional, or national entities consuming resources | City government buying buses, national government purchasing defense systems |
+| **NGO / Non-Profit**      | Organizations focusing on social causes and projects       | Charity buying food aid, environmental NGO purchasing supplies |
+| **Country**               | Entire nation’s consumption of goods/services              | National infrastructure projects, energy consumption |
+| **Global Market**         | Collective global consumption, multinational scale         | Worldwide oil consumption, international demand for tech goods |
+
