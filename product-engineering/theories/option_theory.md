@@ -3,13 +3,13 @@
 We know that every algorithm have pros and cons. These pros and cons make it optimal for a set of 
 use-cases while being sub-optimal for others.
 
-We know that in recursive problem chains, the con of one product becomes the oppurtunity 
+We know that in recursive problem chains, the con of one product becomes the opportunity 
 for the next. If this chain keeps going, we end up with many **options** of algorithm which each
 solve a certain problem on their own. However a set of algorithms which each solve a con 
 from a sibling algorithm, together they cover a wider surface area of a general problem set.
 
 Often we say that we will use one tool for something and another tool for something else. They 
-solve each others cons. However, the oppurtunity lies in unsolved cons. Meaning there is 
+solve each others cons. However, the opportunity lies in unsolved cons. Meaning there is 
 a lack of alternative **option** to a given con. That is where the gap in problem coverage can
 be identified and *vertical* progress can be made.
 
@@ -35,7 +35,7 @@ So with both sides of the situation (problem, solution) we can make forward prog
 
 ### Primitive Pro Con Relationships
 We should also identify the relationships between pros and cons at a primitive level. Whether 
-they are associatively mapped to one another. Whether some pros hae unavoidable iverse cons related
+they are associatively mapped to one another. Whether some pros have unavoidable inverse cons related
 to them. If true, this gives us predictive power. 
 
 Relationships give predictive power to know what to expect next in the problem-solution chain.

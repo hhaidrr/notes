@@ -22,3 +22,7 @@ Use cases expanded to:
 - Industries like real estate and logistics adopted blockchain for transparency and efficiency.
 - Public awareness increased with the growth of NFTs, metaverse projects, and decentralized apps.
 Barriers: Scalability, regulatory uncertainty, and energy concerns slowed adoption in some areas.
+
+# References
+[Original Bitcoin Whitepaper - Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)
+

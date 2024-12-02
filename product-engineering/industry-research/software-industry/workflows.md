@@ -1,7 +1,7 @@
 # Workflows - Software 
 
 Software (with underlying hardware) is a meta algorithm which allows us to write self 
-executing algorithms that do not need human itervention or costs. Software costs come from
+executing algorithms that do not need human intervention or costs. Software costs come from
 indirect dependencies which at some point still require human labour. However the software itself
 does not require human costs.
 
@@ -15,7 +15,7 @@ due to AI that can write code. However it is not there yet.
 There are a few things software cannot cover, which is more manageable to document than to 
 discuss the things it can cover.
 
-### 1. Iteract with Physical Reality
+### 1. Interact with Physical Reality
 - Material Existence: Software cannot directly manipulate physical matter; 
 it requires hardware or machinery as an intermediary.
 - Example: Building a house requires manual labor and physical materials, though software 

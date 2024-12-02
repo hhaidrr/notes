@@ -30,7 +30,7 @@ Creating access to an existing algorithm.
 Providing value to a sub-set of consumers.
 
 ## Consumer Categories
-Typically these diffent categories will differ in their workflows, needs, requirements
+Typically these different categories will differ in their workflows, needs, requirements
 and therefore their resulting problems and possible solutions/products.
 
 

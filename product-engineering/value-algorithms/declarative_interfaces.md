@@ -5,7 +5,7 @@ or task rather than specifying the step-by-step instructions to achieve it.
 This approach allows users to express **what they want to achieve**, and the tool 
 or interface determines **how to accomplish it**.
 
-The opposite of declarative interfaces are *imperitive* ones. Imperitive intefaces require
+The opposite of declarative interfaces are *imperative* ones. Imperative interfaces require
 you to describe how something should be performed, rather than tell it the end-state you
 want it to achieve.
 
@@ -25,13 +25,13 @@ discriminator here is that
 
 ## Alignment with Paradise Theory
 
-The previous statement aligns with [Paradise Thoery](../paradise-theory.md) which states 
-that our cardinal algorithm of *homeostatis* ultimately only cares about maintaining an 
+The previous statement aligns with [Paradise Theory](../paradise-theory.md) which states 
+that our cardinal algorithm of *homeostasis* ultimately only cares about maintaining an 
 ideal state of being.
 
 If we extrapolate, we can infer that in paradise, everything is declarative. 
 We simply intend a state we want and we achieve it at no cost to us. 
-Imperitive is only necessary in a world of costs. As product engineers, we prefer
+Imperative is only necessary in a world of costs. As product engineers, we prefer
 to give as much declaration capability to our users as possible. This is aligned with them.
 
 

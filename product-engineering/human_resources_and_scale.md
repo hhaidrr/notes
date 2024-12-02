@@ -14,7 +14,7 @@ the end result. I prefer not to deal with alignment issues, people issues.
 
 This is fine, as an individual working on producing on their own. This individual
 prioritizes their autonomy, control, and product visibility. However, this 
-individual is naive if they think they will simultaneously aquire a large ceiling to scale.
+individual is naive if they think they will simultaneously acquire a large ceiling to scale.
 They can become as efficient as possible. However, it simply can't compete with parallelism
 done well.
 
@@ -26,10 +26,10 @@ possible otherwise. Concurrency can be good, but never match parallelism.
 
 * There is no machine on earth that currently replicates the utility of a human resource.
 Else there would be no human product engineers or any other career for that matter. 
-AGI still hasnt come to deliver its threat.
+AGI still hasn't come to deliver its threat.
 
 If these previous predicates are true. Then we can therefore state that active working 
-human resources in parallel provides a un-replicable output. Thus proving the unique
+human resources in parallel provides a irreplicable output. Thus proving the unique
 value of the *organization*.
 
 ## Organizations
@@ -82,7 +82,7 @@ that has power to push the direction of the product to a certain capacity.
 TODO ..
 
 ## Net Productivity
-Net productivity is what you get after you substract the cost of directional confliction, 
+Net productivity is what you get after you subtract the cost of directional confliction, 
 communication overhead, and any other costs of producer parallelism.
 
 

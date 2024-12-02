@@ -4,7 +4,7 @@ The development of touch screens abstracted user interfaces. Decoupling the logi
 layout from physical hardware.
 
 ## Following Pros
-This was extremely valuable since the same hardware could be used to facilititate the user
+This was extremely valuable since the same hardware could be used to facilitate the user
 of many different applications.
 
 WIP...
@@ -12,7 +12,7 @@ WIP...
 ## Following Cons
 ### 1. Tactile Feedback
 However this also made use lose tactile feedback from the interface. For some applications this 
-is more valuable. e.g. driving, flying, etc. where the visual priority is elswhere, especially
+is more valuable. e.g. driving, flying, etc. where the visual priority is elsewhere, especially
 in highly reactive or fast-paced environments. Touch screens can be less reliable since they 
 cannot be operated without looking at them as well as with physical interfaces.
 

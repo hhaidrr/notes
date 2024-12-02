@@ -10,7 +10,7 @@ Be able to describe a house by:
 Describe the state of the custom home. Have it built.
 Abstracts:
 
-* The realtor, search and find process.
+* The Realtor, search and find process.
 
 User story:
 
