@@ -45,3 +45,16 @@ and therefore their resulting problems and possible solutions/products.
 | **Country**               | Entire nation’s consumption of goods/services              | National infrastructure projects, energy consumption |
 | **Global Market**         | Collective global consumption, multinational scale         | Worldwide oil consumption, international demand for tech goods |
 
+## Industry Event Analysis Structure
+For each industry, there should be an established timeline of significant events which caused mass adoption and shifted mass practices.
+There needs to be a structure in the research and findings of these events within their own documents in order to find common trends between them.
+
+### Sections:   
+- **Who Adopted this new algorithm**
+    - The new way of doing something of significance will mean many people shifted their old workflow with the new. This would be for a net delta of value increase
+    in the new method. 
+- **What was their previous utilized algorithm**
+    - Understand what they were using before this to know why the new method proved to be a net delta value increase.
+- **Abstract algorithm**
+    - Find the abstract version of the algorithm. This is what allows us to extract general strategic value (value strategy/algorithm) out of these historical 
+    *implementations*.
