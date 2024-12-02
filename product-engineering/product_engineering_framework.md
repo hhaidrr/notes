@@ -58,3 +58,7 @@ There needs to be a structure in the research and findings of these events withi
 - **Abstract algorithm**
     - Find the abstract version of the algorithm. This is what allows us to extract general strategic value (value strategy/algorithm) out of these historical 
     *implementations*.
+        - Each documented event in a timeline index for an industry marks a point of significant adoption
+towards the solving of an existing con with the previous way of doing things. This will start to 
+develop a list of con solving algorithms which can be abstracted.
+

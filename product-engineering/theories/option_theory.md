@@ -33,10 +33,18 @@ Being able to abstract which problems arise from abstract solutions give the abi
 
 So with both sides of the situation (problem, solution) we can make forward progress. (Problem -> solution -> problem -> solution)
 
+### Primitive Pro Con Relationships
+We should also identify the relationships between pros and cons at a primitive level. Whether 
+they are associatively mapped to one another. Whether some pros hae unavoidable iverse cons related
+to them. If true, this gives us predictive power. 
+
+Relationships give predictive power to know what to expect next in the problem-solution chain.
+
 ## Nesting
 Problems should not be naively thought of as being single layered. Like any state structure or algorithm, it is likely to have many layers and pieces. We can 
 call this a composite (based off of the composite pattern). If a problem is a composite, the solution must also be a composite, where the smallest units of 
 problem-solution pairs can be reduced. This way we can use the visitor pattern at the lowest unit of a problem and traverse back to the root. This would 
 allow us to generate composite solutions. Looking at this inversely, we can also create composite problems from composite solutions. Again, this is a very
 naive way to structure problems, but it is a first perspective.
+
 
