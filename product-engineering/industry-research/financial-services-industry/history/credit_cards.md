@@ -62,6 +62,11 @@ Pc = (credit-worthiness)
 Rm = 1 - Pc
 Tc = Tp - Ts 
 
+note: We have a bit of an ongoing dillema. We know that the more time a merchant gives the customer to pay, the more risk the merchant incurs and the better off
+the consumer is. However, we can't really plug this into the value equation directly yet. Figuring out what we are missing.
+
+V = 1/time+energy+capital+risk
+
 
 
 
