@@ -16,10 +16,29 @@ Coins
 ### Historical Implementations of Credit-based payments
 - Credit Cards
 - Charge plates
-- Possible Paper-based system
+Value Algorithms applied:
+- standardization
+Pros:
+- smaller, durable, embossed with customer ID info
+- Merchants could quickly imprint the plate onto a sales slip using a mechanical device, 
+speeding up the transaction process and reducing errors.
+- **Standardized** the format for credit transactions, allowing merchants to use a single process across customers. (compatibility, reduced (time, energy, risk from errors))
+This [standardization](../../../value-algorithms/standardization.md) laid the groundwork for broader, networked credit systems like modern credit cards.
+- The embossed metal design made charge plates harder to forge than handwritten or printed paper records. (increased security, decreased risk)
+- Only authorized users could access credit tied to a plate, as merchants would verify the identity of the holder against the plate details.
+Cons:
+- Paper-based system
 Dependent on: Creation of paper, Common population literacy
 Pros:
 Cons:
+- Paper credit systems required manual recording of transactions by the merchant, which was time-consuming and prone to human error.
+- Consumers often had to carry physical paper records or account books for verification.
+- Lacked uniformity; each merchant or business could have their own credit note system.
+- Consumers often had to maintain separate credit agreements or records with each merchant.
+- Paper records could be easily forged or tampered with, posing a security risk for merchants.
+- Paper was also vulnerable to loss or damage.
+- Limited in scope, as they required extensive bookkeeping for each customer.
+- Managing a large number of credit accounts was labor-intensive for businesses.
 
 - Tally sticks
 - Credit-based Bartering
@@ -66,6 +85,8 @@ note: We have a bit of an ongoing dillema. We know that the more time a merchant
 the consumer is. However, we can't really plug this into the value equation directly yet. Figuring out what we are missing.
 
 V = 1/time+energy+capital+risk
+
+The more time there is to pay. The more risk the merchant has, and the less risk the consumer has.
 
 
 
