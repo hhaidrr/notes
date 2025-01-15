@@ -19,6 +19,20 @@ TODO: Write and link document on switch-over cost.
 ## Delivery
 This is when the product is complete. How do you actually get your target consumers exposed
 to the product? Marketing, sales, etc.
+../client_outreach/
+
+### Web application
+1. Host on a cloud server. Make it able to host working users.
+- AWS, Azure, GCP
+2. Create product user demo video. 
+- Screen Studio
+3. Create product site and landing page. 
+- Figma
+4. Make a post on social media.
+- LinkedIn
+- Twitter
+- Instagram
+- etc. omni-channel
 
 ## Dimensions
 ### Vertical
