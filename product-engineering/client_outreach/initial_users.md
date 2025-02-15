@@ -38,6 +38,14 @@ during the startup phase for idea validation and initial clients.
 9. Join incubators or accelerators to connect with early clients and mentors
 - Segment
 
+# The Fortune 5 Million
+From a talk by DHH: https://www.youtube.com/watch?v=0CDXJ6bMkMY 
+
+Selling direct to individual consumers is very challenging, and selling to enterprise is challenging,
+selling to SMBs of 50+ employees is also challenging, but there are companies in the fortune 5 million.
+Companies like 2-3 people or 5 people. Very very small companies, but they are willing to pay if you 
+can solve a problem they're experiencing. Selling is challenging all around, but the fortune 5 million 
+is a good entry point.
 
 
 Leverage existing platforms or communities (e.g., Craigslist, forums).

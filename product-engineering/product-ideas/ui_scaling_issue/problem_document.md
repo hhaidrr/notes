@@ -60,6 +60,8 @@ abstracted in a SaaS solution.
 The command portion is what AI agents are aiming to do like Anthropic. However it is still in r&d phase and is trying to 
 tackle very general commands over a whole computer system. Not specific per product or tool.
 
+Checksum.ai can generate Cypress, Playright tests using an AI Agent
+
 ## Ideal Solution
 To make current UI based interfaces feel significantly slower and frictionful to use than the implemented alternative. 
 

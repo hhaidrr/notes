@@ -1,0 +1,147 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.8">
+  <diagram name="Page-1" id="RW-urn3OIl9fjIRbvtoG">
+    <mxGraphModel dx="1840" dy="1371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ssdONVnJytb1tMgbgSI7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ssdONVnJytb1tMgbgSI7-1" target="ssdONVnJytb1tMgbgSI7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-19" value="Uses" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ssdONVnJytb1tMgbgSI7-18">
+          <mxGeometry x="-0.0333" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ssdONVnJytb1tMgbgSI7-1" target="ssdONVnJytb1tMgbgSI7-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-21" value="Uses" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ssdONVnJytb1tMgbgSI7-20">
+          <mxGeometry x="0.3147" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-1" value="Logical API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-2" value="Site DOM (e.g. TD job site application form)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ssdONVnJytb1tMgbgSI7-3" target="ssdONVnJytb1tMgbgSI7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-13" value="Fills out" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ssdONVnJytb1tMgbgSI7-12">
+          <mxGeometry x="-0.0333" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ssdONVnJytb1tMgbgSI7-3" target="ssdONVnJytb1tMgbgSI7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-17" value="Complies with" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ssdONVnJytb1tMgbgSI7-16">
+          <mxGeometry x="0.0333" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-3" value="DOM Interaction API (e.g. playwright)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-4" value="Site form Interface" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ssdONVnJytb1tMgbgSI7-5" target="ssdONVnJytb1tMgbgSI7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-11" value="Generates" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ssdONVnJytb1tMgbgSI7-8">
+          <mxGeometry x="-0.0481" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-5" value="AI Operator (e.g. deepseek r1)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ssdONVnJytb1tMgbgSI7-6" target="ssdONVnJytb1tMgbgSI7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-10" value="Gives Initial Structure to" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ssdONVnJytb1tMgbgSI7-9">
+          <mxGeometry x="-0.0556" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-6" value="Legacy Autofill Engine pre-processor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;dashed=1;" edge="1" parent="1" source="ssdONVnJytb1tMgbgSI7-7" target="ssdONVnJytb1tMgbgSI7-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-7" value="Site Index" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-22" value="Responsible for keeping a hash index of all sites which&amp;nbsp;&lt;div&gt;we&#39;ve generated a DOM API implementation for&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="270" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;dashed=1;" edge="1" parent="1" source="ssdONVnJytb1tMgbgSI7-23" target="ssdONVnJytb1tMgbgSI7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-23" value="Responsible for providing a common set of behaviour&lt;div&gt;which is interoperable across all generated DOM API implementations&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="800" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-26" value="Responsible for providing the actual DOM API implementation which is&amp;nbsp;&lt;div&gt;specific to the target site DOM&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.525;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ssdONVnJytb1tMgbgSI7-3" target="ssdONVnJytb1tMgbgSI7-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="390" as="sourcePoint" />
+            <mxPoint x="330" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-30" value="Responsible for providing a base structure to the AI model to save it some work&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="960" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;dashed=1;exitX=0.565;exitY=-0.025;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ssdONVnJytb1tMgbgSI7-30" target="ssdONVnJytb1tMgbgSI7-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315" y="860" as="sourcePoint" />
+            <mxPoint x="345" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-32" value="&lt;div&gt;Responsible for generating the DOM API&amp;nbsp;&lt;/div&gt;&lt;div&gt;implementation which complies with the site form interface&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="880" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;dashed=1;" edge="1" parent="1" source="ssdONVnJytb1tMgbgSI7-32" target="ssdONVnJytb1tMgbgSI7-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="794" y="949" as="sourcePoint" />
+            <mxPoint x="745" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-34" value="The high level API which abstracts all the other sub-components" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="720" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;dashed=1;" edge="1" parent="1" source="ssdONVnJytb1tMgbgSI7-34" target="ssdONVnJytb1tMgbgSI7-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="820" as="sourcePoint" />
+            <mxPoint x="230" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ssdONVnJytb1tMgbgSI7-36" target="ssdONVnJytb1tMgbgSI7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-39" value="Verifies Form Fill for mistakes or success" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ssdONVnJytb1tMgbgSI7-38">
+          <mxGeometry x="0.0167" y="2" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-36" value="Form Fill Verifier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-37" value="Responsible for detecting when the DOM API has made an error.&lt;div&gt;Finds discrepencies in the given resume and the form that has been filled.&lt;/div&gt;&lt;div&gt;Records passes and failures.&lt;/div&gt;&lt;div&gt;Failures cause a re-generation and update of the indexed DOM API implementation.&lt;/div&gt;&lt;div&gt;After re-generation, the API is used and verified again to see if it passes.&lt;/div&gt;&lt;div&gt;If it fails again after re-generation, it gets put on human operator intervention queue for further investigation.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="790" y="370" width="590" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ssdONVnJytb1tMgbgSI7-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;dashed=1;entryX=0.001;entryY=0.423;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ssdONVnJytb1tMgbgSI7-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="412" as="sourcePoint" />
+            <mxPoint x="540" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
