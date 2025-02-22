@@ -1,10 +1,11 @@
-# Problem Document - Job Hunting
+# Problem Document - AI job application platform
 
 ## Central problem
-Recurring broadcast applications to different positions online is often manual even with autofill features. It still
-needs supervision and manual intervention from the user.
+Recurring broadcast applications to different positions online is often manual even with autofill features. It still needs supervision and manual intervention from the user.
 
 The user should not have any exposure to the application process, they shouldnt even see the company job site.
+
+Especially when today software engineers have to apply 1000 times before scraping by a few interviews. It is a grind to do this manually.
 
 ## Current Best Solutions
 - Huntr
