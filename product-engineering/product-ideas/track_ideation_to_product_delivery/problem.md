@@ -13,6 +13,10 @@ resources invested into a project.
 Just like climbing a mountain, climbers need a way to track their distance to the summit. This keeps them motivated and
 on task especially for long-lived endeavours.
 
+## Problem characteristics
+Number of users this problem applies to (high | mid | low): low
+Frequency a user will experience this problem (high | mid | low): mid
+
 
 ## Current Best Solutions
 Chatgpt describes this as a "personalized product lifecycle tracking system that helps solopreneurs move from ideation 

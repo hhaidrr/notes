@@ -10,6 +10,9 @@ questions, explaining the logic and data model/relationships. This would make th
 Adyen API docs is where I personally felt the most pain. It was very well organized, but just the shear scale 
 is unavoidable and is a good fit for LLM use-cases.
 
+## Problem characteristics
+Number of users this problem applies to (high | mid | low): high
+Frequency a user will experience this problem (high | mid | low): mid
 
 ## Current Best Solutions
 - Either using an AI enabled unified API such as 

@@ -8,6 +8,10 @@ User intent execution gets slower over time, requires more knowledge of the prod
 the load of this rather than the user to compensate for the scale of its own growing capabilities. The user should only have to 
 describe their intent. Therfore maintaining a constant value for UX over time. Declarative is better than imperative.
 
+## Problem characteristics
+Number of users this problem applies to (high | mid | low): high
+Frequency a user will experience this problem (high | mid | low): mid
+
 ## Observations
 ### Professional Users vs. Non-Professional Users
 Professional users who have to use large applications for their work are expected to invest in their learning curves. 

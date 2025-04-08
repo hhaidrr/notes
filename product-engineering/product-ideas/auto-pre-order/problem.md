@@ -6,6 +6,10 @@ However, when things go on sale, which is what she waits for, the things she lik
 This leaves her to get secondary alternatives but miss out on the products she wanted which she'd scoped out for a long 
 time.
 
+## Problem characteristics
+Number of users this problem applies to (high | mid | low): mid
+Frequency a user will experience this problem (high | mid | low): low
+
 ## Current Best Solutions
 ```perplexity deep research report
 # Automated Purchase Solutions for Limited Stock Jewelry Sales

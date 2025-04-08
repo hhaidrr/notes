@@ -20,6 +20,10 @@ I want there to be a catalog of good application use-cases that will excercise d
 language under test which I can actually then use in my day to day life and see how it performs. Technically this
 requires it be viable for a production user which is yourself.
 
+## Problem characteristics
+Number of users this problem applies to (high | mid | low): mid
+Frequency a user will experience this problem (high | mid | low): low
+
 ## Current Best Solutions
 ChatGPT says "There isn’t a widely recognized tool or system that fully solves this problem" - 2025-02-08
 

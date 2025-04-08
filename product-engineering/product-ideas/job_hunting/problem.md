@@ -7,6 +7,11 @@ The user should not have any exposure to the application process, they shouldnt 
 
 Especially when today software engineers have to apply 1000 times before scraping by a few interviews. It is a grind to do this manually.
 
+## Problem characteristics
+Number of users this problem applies to (high | mid | low): high
+Frequency a user will experience this problem (high | mid | low): low
+
+
 ## Current Best Solutions
 - Huntr
 AI Resume/cover letter/resignation letter generation

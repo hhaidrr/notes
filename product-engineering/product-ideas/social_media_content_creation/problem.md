@@ -5,6 +5,10 @@ I don't want to spend the time creating my posts and making sure they are all fo
 then also optimizing them per the platform algorithm. Then multiplying this activity by the frequency I want to 
 be active on this platform. 
 
+## Problem characteristics
+Number of users this problem applies to (high | mid | low): mid
+Frequency a user will experience this problem (high | mid | low): high
+
 ## Current Best Solutions
 ChatGPT Product report:
 Existing Solutions & Their Limitations

@@ -7,6 +7,10 @@ of what I do and when I do it and for how long. I don't have the energy nor time
 I want there to be an independent system which can autonomously do this for me so that I can look at the data later
 to make assessments and even layer a assessment program or logic over the empiric and accurate data.
 
+## Problem characteristics
+Number of users this problem applies to (high | mid | low): mid
+Frequency a user will experience this problem (high | mid | low): mid
+
 ## Current Best Solutions
 Wearables like:
 apple watch

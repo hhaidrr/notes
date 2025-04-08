@@ -1,11 +1,15 @@
 # Problem Document - Dopamine Management
 
-## Central Argument
+## Central Problem
 As products allow dopamine to become more easily accessible to our brains. It becomes harder for our logical mind to 
 attribute resources towards long lasting endeavours/projects and tasks. This will become worse as techonology progresses 
 without addressing constraints of balanced dopamine mechanisms.
 
 This has manifested into terms such as doom scrolling, brain rot, etc.
+
+## Problem characteristics
+Number of users this problem applies to (high | mid | low): mid
+Frequency a user will experience this problem (high | mid | low): high
 
 ## Current Best Solutions
 - Opal

@@ -4,6 +4,10 @@
 Non-for-profit organizations often struggle to get funding when they first start out. They rely only on donations.
 This unsustainable and even self-destructive model leads to a lot of organizations failing to get off the ground.
 
+## Problem characteristics
+Number of users this problem applies to (high | mid | low): low
+Frequency a user will experience this problem (high | mid | low): mid
+
 ## Current Best Solutions
 ```Perplexity Deep Research Report:
 # Dynamic Subscription Models for Nonprofits: Existing Solutions and Innovation Gaps
