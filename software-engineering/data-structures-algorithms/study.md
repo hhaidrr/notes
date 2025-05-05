@@ -19,3 +19,9 @@ if the length of the stack is >= 2
 if at the end of the iteration the stack is empty, then it is a valid parentheses string
 else it is not a valid parentheses string
 
+
+# Problem Study Framework
+1. 10-15 minutes of independent attempt
+2. after independent attempt, if fail, review the solution/editorial and try again
+3. after independent attempt, if pass, review best solution from top rated to learn optimizations
+4. Write down key takeaways
