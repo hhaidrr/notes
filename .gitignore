@@ -1,3 +1,4 @@
 .venv/
 site/
 drawio-exporter/
+*.vim
