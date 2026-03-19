@@ -11,6 +11,7 @@ Fix: The order should provide a getZipCode() method or the zip code should be pa
 
 Functions should only operate on the things they absolutely need to do their job. All else that is passed in is unnecessary coupling.
 Methods should only operate on their direct arguments and or their own object data. They should not reach into their neighbours.
+It should always be preferred for functions to operate on primitives or the most generic/plain data types over actual heavy models. If many args need to be passed together frequently, avoid data clumping with thin DTOs.
 
 ### Well-Designed Interfaces
 Definition: Interfaces should be "narrow" and focused on the consumer's needs, not the provider's capabilities.
