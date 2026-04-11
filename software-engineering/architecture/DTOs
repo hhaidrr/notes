@@ -1,0 +1,9 @@
+# DTOs
+Why are DTOs useful?
+- They decouple pure logic from db schema details, allowing your database tables to evolve independently without 
+breaking layers deep logic
+- The allow pure functions to remain pure and not cause side effects especially if you are dealing with an 
+active record pattern ORM (django)
+- It allows you to gain significantly better type inference in dynamic languages that have magical frameworks (django)
+- since they allow you to keep functions pure, you can also have mockless tests, much much easier to maintain and develop
+ 
