@@ -69,7 +69,7 @@ Definition: Given the same input, the function always returns the same output an
 
 Review Check: Does the function rely on a hidden global variable or the current system time? If so, it’s hard to test. Pull those in as arguments.
 
-### Cognitive Load (The "Human" Factor)
+### Cognitive Load (The "Human" Factor) (ready efficiency)
 How hard is it for a tired developer to understand this at 2:00 AM?
 
 Descriptive Naming
@@ -81,6 +81,24 @@ DRY (Don't Repeat Yourself) vs. AHA (Avoid Hasty Abstractions)
 Review Check: Is there literal copy-pasted code? (Bad).
 
 Review Check: Is the code so "abstract" and "generic" that it’s impossible to follow the flow? (Also bad). Aim for "sensible repetition" over "wrong abstraction."
+
+This section is concerned with reducing cost of understanding, readability (developer read efficiency)
+
+### Cost of Change & Developer Ergonomics (write efficiency)
+How easily can this codebase adapt to changing business requirements? We measure ergonomics by tracking cognitive load and the "distance" between intent and execution.
+
+Shotgun Surgery (The Enemy of Locality of Behavior)
+Definition: A single conceptual change or new feature requires scattering small, coordinated edits across multiple disconnected files, directories, or layers. Code lacks Locality of Behavior.
+
+Very similar changes performed multiple times in different places indicates duplicate logic that should be normalized
+to a single place so that in the future only that location needs to be changed.
+
+Test Fragility
+Definition: Tests are tightly coupled to implementation details rather than observable behavior, turning testing into an ergonomic bottleneck.
+
+Diff Visual Flags: The diff in the *test* files consists overwhelmingly of updating rigid mock setups (mock().willReturn()), deep stubbing, or rearranging boilerplate test setup, rather than writing new test assertions.
+
+This section is concerned with reducing cost of change (developer write efficiency)
 
 ## Pure vs Side Effects segregation ((CPU, Mem) vs (Disk, Net))
 Pure functions are separated from functions that handle IO (side effects).
